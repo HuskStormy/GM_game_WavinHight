@@ -1,0 +1,1 @@
+image_angle += 2 * rot_dir * rot_ran;

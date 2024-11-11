@@ -1,0 +1,1 @@
+global.cortina = 1;

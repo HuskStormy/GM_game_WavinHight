@@ -1,0 +1,1 @@
+live = live_time * room_speed;
